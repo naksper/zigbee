@@ -10,7 +10,7 @@ compatible: [z2m, zha, deconz, tasmota, z4d]
 deconz: 2267
 mlink: https://www.aqara.com/eu/smart_outlet.html
 link: https://www.domadoo.fr/en/peripheriques/5385-aqara-prise-connectee-zigbee-30-smart-plug.html
-link2: https://www.alzashop.com/aqara-smart-socket-d5878403.htm
+link2: https://www.landatel.com/shop/product/aqa-sp-euc01-aqara-sp-euc01-enchufe-inteligente-para-apple-homekit-12847?search=zigbee#attr=
 link3: 
 ---
 
